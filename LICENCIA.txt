@@ -1,0 +1,20 @@
+Sh4d0ws Toolbox - Licencia propietaria
+Copyright (c) 2026 Sh4d0w Studio. Todos los derechos reservados.
+
+Este software y su codigo fuente son propiedad exclusiva de su autor. NO es
+software libre ni de codigo abierto.
+
+Sin autorizacion escrita del autor queda prohibido:
+
+  1. Copiar, distribuir, publicar o sublicenciar el codigo fuente o el programa.
+  2. Modificar, descompilar, desensamblar o realizar ingenieria inversa, ni
+     eliminar o eludir el sistema de licencias.
+  3. Usar el programa sin una licencia valida adquirida al autor.
+  4. Crear obras derivadas o productos basados en este codigo.
+
+El acceso a este repositorio no concede ningun derecho de uso. El uso del
+programa esta sujeto a la compra de una licencia, que se activa con una clave
+firmada emitida por el autor.
+
+EL SOFTWARE SE ENTREGA "TAL CUAL", SIN GARANTIA DE NINGUN TIPO. EL AUTOR NO SERA
+RESPONSABLE DE LOS DANOS DERIVADOS DE SU USO.
